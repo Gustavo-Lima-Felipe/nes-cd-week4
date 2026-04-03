@@ -1,0 +1,4 @@
+dados_escolares.csv
+__pycache__/
+*.pyc
+.env
